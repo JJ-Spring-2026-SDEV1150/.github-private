@@ -9,7 +9,7 @@ Use this template for you and your students to create a workbook that will be us
 ## Assignment Templates
 The following are starter templates for all four 1251 assignments. Use them to create your GitHub classroom assignments.
 
-- [1251 Assignment 01](https://github.com/NAIT-SDEV1150-Fall2025/assignment-01-1251)
+- [1251 Assignment 01](https://github.com/JJ-Spring-2026-SDEV1150/1253-Assignment-01)
 - [1251 Assignment 02](https://github.com/NAIT-SDEV1150-Fall2025/assignment-02-1251)
 - [1251 Assignment 03](https://github.com/NAIT-SDEV1150-Fall2025/assignment-03-1251)
 - [1251 Assignment 04](https://github.com/NAIT-SDEV1150-Fall2025/assignment-04-1251)
